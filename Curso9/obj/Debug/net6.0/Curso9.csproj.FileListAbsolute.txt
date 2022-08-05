@@ -1,0 +1,15 @@
+C:\Users\renan.ferreira\source\repos\Curso9\Curso9\bin\Debug\net6.0\Curso9.exe
+C:\Users\renan.ferreira\source\repos\Curso9\Curso9\bin\Debug\net6.0\Curso9.deps.json
+C:\Users\renan.ferreira\source\repos\Curso9\Curso9\bin\Debug\net6.0\Curso9.runtimeconfig.json
+C:\Users\renan.ferreira\source\repos\Curso9\Curso9\bin\Debug\net6.0\Curso9.dll
+C:\Users\renan.ferreira\source\repos\Curso9\Curso9\bin\Debug\net6.0\Curso9.pdb
+C:\Users\renan.ferreira\source\repos\Curso9\Curso9\obj\Debug\net6.0\Curso9.csproj.AssemblyReference.cache
+C:\Users\renan.ferreira\source\repos\Curso9\Curso9\obj\Debug\net6.0\Curso9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\renan.ferreira\source\repos\Curso9\Curso9\obj\Debug\net6.0\Curso9.AssemblyInfoInputs.cache
+C:\Users\renan.ferreira\source\repos\Curso9\Curso9\obj\Debug\net6.0\Curso9.AssemblyInfo.cs
+C:\Users\renan.ferreira\source\repos\Curso9\Curso9\obj\Debug\net6.0\Curso9.csproj.CoreCompileInputs.cache
+C:\Users\renan.ferreira\source\repos\Curso9\Curso9\obj\Debug\net6.0\Curso9.dll
+C:\Users\renan.ferreira\source\repos\Curso9\Curso9\obj\Debug\net6.0\refint\Curso9.dll
+C:\Users\renan.ferreira\source\repos\Curso9\Curso9\obj\Debug\net6.0\Curso9.pdb
+C:\Users\renan.ferreira\source\repos\Curso9\Curso9\obj\Debug\net6.0\Curso9.genruntimeconfig.cache
+C:\Users\renan.ferreira\source\repos\Curso9\Curso9\obj\Debug\net6.0\ref\Curso9.dll
